@@ -7,6 +7,8 @@ For running in ROS2 environment please switch to the [ros2 branch](https://githu
 
 LibRealSense2 supported version: v2.50.0 (see [realsense2_camera release notes](https://github.com/IntelRealSense/realsense-ros/releases))
 
+**This repo is a fork of version 2.3.2 of the realsense-ros package to supprt the D405 in ROS Noetic.**
+
 ## Installation Instructions
 
 ### Ubuntu
